@@ -4,3 +4,6 @@ Dashboards produced on my personal computer. Extract, Transform and Load Data of
 
 1. Exploratory Data Analysis | Data Science Salaries Worldwide. 
    - Data obtained from Kaggle: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
+
+2. Exploratory Data Analysis | Titanic Spaceship Disaster.
+   - Data obtained from Kaggle: https://www.kaggle.com/competitions/spaceship-titanic
